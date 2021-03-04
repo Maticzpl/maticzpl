@@ -1,8 +1,8 @@
 ### Hi! Im Maticzpl
 
 
-🌱 I’m currently learning TypeScript <br/>
-🔭 I’m currently working on a **discord bot** and **The Powder Toy 3D**<br/>
+🌱 I’m currently learning TypeScript and OpenGL<br/>
+🔭 I’m currently working on a **TS game engine** and **The Powder Toy 3D**<br/>
 📫 How to reach me: <br/>
 - Discord **Maticzpl#4819**
 - Email: czerneckimateusz0@gmail.com
