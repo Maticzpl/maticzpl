@@ -1,5 +1,7 @@
+![Github Username](https://img.shields.io/badge/-Maticzpl-red)
+![Github Stars](https://img.shields.io/github/stars/Maticzpl?color=red&label=Stars&logo=github)
 ### Hi! Im Maticzpl
-
+<br/>
 
 🌱 I’m currently learning TypeScript and OpenGL<br/>
 🔭 I’m currently working on a **TS game engine** and **The Powder Toy 3D**<br/>
