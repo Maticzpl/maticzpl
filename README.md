@@ -3,8 +3,7 @@
 ### Hi! Im Maticzpl
 <br/>
 
-🌱 I’m currently learning TypeScript and OpenGL<br/>
-🔭 I’m currently working on a **TS game engine** and **SCP SL plugins**<br/>
+🌱 I’m currently learning C# and OpenGL<br/>
 📫 How to reach me: <br/>
 - Discord **Maticzpl#4819**
 - Email: czerneckimateusz0@gmail.com
