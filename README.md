@@ -1,5 +1,10 @@
+<!--
 ![Github Username](https://img.shields.io/badge/-Maticzpl-red)
 ![Github Stars](https://img.shields.io/github/stars/Maticzpl?color=red&label=Stars&logo=github)
+-->
+
+
+
 ### Hi! Im Maticzpl
 <br/>
 
@@ -21,3 +26,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maticzpl&show_icons=true&theme=dracula&border_radius=10&include_all_commits=true&count_private=true" />
+</a>
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&border_radius=10&layout=compact" />
+</a>-->
