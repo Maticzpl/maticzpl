@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on a 2D game<br/>
 📫 How to reach me: <br/>
 - Discord **Maticzpl#4819**
-- Email: czerneckimateusz0@gmail.com
+- Email: contact@maticzpl.xyz
 
 <!--
 **Maticzpl/maticzpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
