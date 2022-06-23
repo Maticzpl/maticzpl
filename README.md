@@ -8,8 +8,6 @@
 ### Hi! Im Maticzpl
 <br/>
 
-🌱 I’m currently learning C# and OpenGL<br/>
-- 🔭 I’m currently working on a 2D game<br/>
 📫 How to reach me: <br/>
 - Discord **Maticzpl#4819**
 - Email: contact@maticzpl.xyz
