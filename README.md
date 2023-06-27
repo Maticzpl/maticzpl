@@ -9,7 +9,7 @@
 <br/>
 
 📫 How to reach me: <br/>
-- Discord **Maticzpl#4819**
+- Discord **maticzpl**
 - Email: contact@maticzpl.xyz
 
 <!--
